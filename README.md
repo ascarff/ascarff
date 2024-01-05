@@ -1,9 +1,5 @@
 ### Hello there 👋
 
-I'm a data scientist interested in looking at new roles in the field. I've recently completed the S2DS program working on reinforcement learning to mRNA design.
-
-I'm currently learning many different machine learning techniques using O'Reilly's "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow".
-
 <!--
 **ascarff/ascarff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
